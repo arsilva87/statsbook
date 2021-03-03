@@ -23,5 +23,16 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [conjunta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/conjunta.csv)
 - [TA.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/TA.csv)
 
+Por exemplo:
+```r
+> batata <- read.table("https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/batata.txt", 
+     header = TRUE, colClasses = c("factor", "factor", "numeric"))
+> str(batata)
+'data.frame':   12 obs. of  3 variables:
+ $ cultivar: Factor w/ 4 levels "1","2","3","4": 1 1 1 2 2 2 3 3 3 4 ...
+ $ bloco   : Factor w/ 3 levels "1","2","3": 1 2 3 1 2 3 1 2 3 1 ...
+ $ prod    : num  50.9 50.6 51.2 49.1 49.3 49.9 49.9 49.8 49.5 49.2 ...
+```
+
 # Contato
-anderson.silva@igoiano.edu.br
+anderson.silva@ifgoiano.edu.br
