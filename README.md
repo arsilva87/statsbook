@@ -16,7 +16,7 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [pimenta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/pimenta.csv)
 - [ancova.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/ancova.csv)
 - [vinhaca.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/vinhaca.csv)
-- [gergelim2ad.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim2ad.txt)
+- [gergelim2ad.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim2ad.txt)
 - [splitplot.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/splitplot.txt)
 - [azuki.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/azuki.csv)
 - [gergelim1ad.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim1ad.csv)
