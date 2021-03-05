@@ -4,7 +4,7 @@
 
 Aqui você encontrará materiais suplementares como scripts do R e conjuntos de dados utilizados no livro, todos disponíveis para consulta e download.
 
-# Conjuntos de dados experimentais
+## Conjuntos de dados experimentais
 Para ler no R os arquivos a seguir, use as funções read.table(), read.csv() ou read.csv2(). O arquivo batata.xlsx contém os mesmos dados do batata.txt; 
 o objetivo é exemplificar a leitura de arquivos .xlsx com o a função read_excel() do pacote readxl. Os nomes dos arquivos a seguir contém os links para leitura 
 direta pelo R usando as funções mencionadas [com excessão da read_excel()].
@@ -36,5 +36,7 @@ Por exemplo:
  $ prod    : num  50.9 50.6 51.2 49.1 49.3 49.9 49.9 49.8 49.5 49.2 ...
 ```
 
-# Contato
+____
+
+## Contato
 anderson.silva@ifgoiano.edu.br
