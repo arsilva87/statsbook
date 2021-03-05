@@ -1,4 +1,6 @@
-# Livro: Estatística
+<img src="https://raw.githubusercontent.com/arsilva87/statsbook/main/figs/figura_thumbnail.png" width="30%" height="30%"> 
+
+# Livro: Estatística 
 
 Aqui você encontrará materiais suplementares como scripts do R e conjuntos de dados utilizados no livro, todos disponíveis para consulta e download.
 
