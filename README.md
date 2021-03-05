@@ -36,5 +36,9 @@ Por exemplo:
  $ prod    : num  50.9 50.6 51.2 49.1 49.3 49.9 49.9 49.8 49.5 49.2 ...
 ```
 
+## Jupyter notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arsilva87/statsbook/main?filepath=Jupyter_notebooks%2FScript_Cap03.ipynb) 
+
+Execute em nuvem todos os comandos apresentados nos capítulos com um Jupyter notebook com kernel R pronto para uso. 
+
 ## Contato
 anderson.silva@ifgoiano.edu.br
