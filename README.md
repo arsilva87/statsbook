@@ -36,7 +36,5 @@ Por exemplo:
  $ prod    : num  50.9 50.6 51.2 49.1 49.3 49.9 49.9 49.8 49.5 49.2 ...
 ```
 
-____
-
 ## Contato
 anderson.silva@ifgoiano.edu.br
