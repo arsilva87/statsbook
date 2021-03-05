@@ -38,7 +38,7 @@ Por exemplo:
 
 ## Jupyter notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arsilva87/statsbook/main?filepath=Jupyter_notebooks%2FScript_Cap03.ipynb) 
 
-Execute em nuvem todos os comandos apresentados nos capítulos com um Jupyter notebook com kernel R pronto para uso. 
+Execute em nuvem todos os comandos apresentados nos capítulos com um Jupyter notebook com kernel R pronto para uso. (O link no título da seção é para o notebook do Cap. 3)
 
 ## Contato
 anderson.silva@ifgoiano.edu.br
