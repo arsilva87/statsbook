@@ -15,6 +15,7 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [camadassolo.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/camadassolo.csv)
 - [milho.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/milho.txt)
 - [dadosboot.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/dadosboot.txt)
+- [caupi.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/caupi.csv)
 - [pimenta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/pimenta.csv)
 - [ancova.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/ancova.csv)
 - [vinhaca.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/vinhaca.csv)
