@@ -25,6 +25,7 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [gergelim1ad.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim1ad.csv)
 - [conjunta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/conjunta.csv)
 - [TA.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/TA.csv)
+- [dinsularis.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/dinsularis.csv)
 
 Por exemplo:
 ```r
