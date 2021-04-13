@@ -17,6 +17,7 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [dadosboot.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/dadosboot.txt)
 - [caupi.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/caupi.csv)
 - [pimenta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/pimenta.csv)
+- [sensorial.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/sensorial.csv)
 - [ancova.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/ancova.csv)
 - [vinhaca.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/vinhaca.csv)
 - [gergelim2ad.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim2ad.txt)
