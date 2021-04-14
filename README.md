@@ -23,9 +23,8 @@ direta pelo R usando as funções mencionadas [com excessão da read_excel()].
 - [gergelim2ad.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim2ad.txt)
 - [splitplot.txt](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/splitplot.txt)
 - [azuki.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/azuki.csv)
-- [gergelim1ad.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gergelim1ad.csv)
 - [conjunta.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/conjunta.csv)
-- [TA.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/TA.csv)
+- [gotas.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/gotas.csv)
 - [asalina.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/asalina.csv)
 - [dinsularis.csv](https://raw.githubusercontent.com/arsilva87/statsbook/main/datasets/dinsularis.csv)
 
