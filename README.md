@@ -1,6 +1,6 @@
 <img align="right" src = "https://raw.githubusercontent.com/arsilva87/statsbook/main/figs/figura_thumbnail.png" width="25%" height="25%">
 
-# Estatística Decodificada
+# Estatística decodificada
 
 Aqui você encontrará materiais suplementares como scripts do R e conjuntos de dados utilizados no livro, todos disponíveis para consulta e download.
 
