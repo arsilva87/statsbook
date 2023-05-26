@@ -42,7 +42,8 @@ Por exemplo:
 
 ## Jupyter notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/arsilva87/4d2535020ce6d13b5f7dfb37dc39865a?filepath=cap03_distribuicoes.ipynb) 
 
-Execute em nuvem todos os comandos apresentados nos capítulos com um Jupyter notebook com kernel R pronto para uso. (o *badge* acima leva ao notebook do Cap. 3)
+Execute em nuvem todos os comandos apresentados nos capítulos com um Jupyter notebook com kernel R pronto para uso. (o *badge* acima leva ao notebook do Cap. 3) Ou tenha acesso aos arquivos dos notebooks [neste link](https://github.com/arsilva87/statsbook/tree/72957f671969d2d728826a675fdc48476774e001/Jupyter_notebooks)
+
 
 ## Contato
 E-mail: <anderson.silva@ifgoiano.edu.br>
